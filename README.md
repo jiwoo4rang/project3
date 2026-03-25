@@ -99,10 +99,10 @@ const RAG_SERVER = 'http://115.137.55.154:30';
 
 ## 📷 실행 화면
 
-![실행 화면1](screenshot.PNG)
-
-![실행 화면2](screenshot2.PNG)
-
+<p align="center">
+  <img src="screenshot.PNG" width="45%">
+  <img src="screenshot2.PNG" width="45%">
+</p>
 ---
 
 ## 💡 향후 개선 계획
