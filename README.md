@@ -22,7 +22,7 @@ AI가 관련 정보를 기반으로 답변을 제공합니다.
 * AI 방식: RAG (Retrieval-Augmented Generation)
 * 연동: API 기반 통신
 
-##Frontend
+## Frontend
 * HTML · CSS · JavaScript
 
 ## 적용 데이터
